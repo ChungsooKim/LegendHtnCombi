@@ -1,7 +1,7 @@
 Large-scale Evidence Generation and Evaluation across a Network of Databases for Hypertension Combination Therapy (LEGEND-HTNCombi)
 =============================================================================
 
-<img src="https://img.shields.io/badge/Study%20Status-Results%20Available-yellow.svg" alt="Study Status: Results Available">
+<img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
 
 - Analytics use case(s): **Population-Level Estimation**
 - Study type: **Clinical Application**
